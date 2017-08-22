@@ -1,0 +1,4 @@
+RewriteEngine on
+
+#Removes the ?id=4 to a clean url
+RewriteRule ^([0-9]+) ?id=$1 [NC,L]

@@ -1,0 +1,19 @@
+{
+    "name": "arady/php-blog",
+    "description": "Craft Cari Blog",
+    "type": "project",
+    "require": {
+        "symfony/http-foundation": "3.1.6",
+        "firebase/php-jwt": "^4.0",
+        "vlucas/phpdotenv": "^2.4",
+        "phpmailer/phpmailer": "~5.2",
+        "vlucas/phpdotenv":  "2.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Retterer",
+            "email": "brian@brianretterer.com"
+        }
+    ]
+}
